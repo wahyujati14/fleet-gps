@@ -1,0 +1,7 @@
+com\example\fleet\FleetApplication.class
+com\example\fleet\VehicleRepository.class
+com\example\fleet\GPSLogRepository.class
+com\example\fleet\Vehicle.class
+com\example\fleet\GPSController.class
+com\example\fleet\GPSLog.class
+com\example\fleet\GPSLogDTO.class
